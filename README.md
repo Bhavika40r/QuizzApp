@@ -11,13 +11,6 @@ A basic online quiz system with user authentication and quiz management. Admins 
 *   **Database:** MySQL/PostgreSQL
 *   **Authentication:** JWT
 
-## Prerequisites
-
-*   Node.js (v16+) and npm (or yarn)
-*   Python 3.7+
-*   MySQL/PostgreSQL
-*   Git
-
 ## Setup
 
 1.  Clone: `git clone [repo URL]`
