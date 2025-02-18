@@ -13,7 +13,7 @@ A basic online quiz system with user authentication and quiz management. Admins 
 
 ## Setup
 
-1.  Clone: `git clone [repo URL]`
+1.  Clone: `git clone https://github.com/Bhavika40r/QuizzApp.git`
 2.  Frontend:
     *   `cd [project dir]`
     *   `npm install` or `yarn install`
